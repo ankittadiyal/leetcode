@@ -22,6 +22,7 @@ leetcode solutions auto commited...
 | [0012-integer-to-roman](https://github.com/ankittadiyal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankittadiyal/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankittadiyal/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
 ## Simulation
@@ -44,4 +45,12 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankittadiyal/leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
