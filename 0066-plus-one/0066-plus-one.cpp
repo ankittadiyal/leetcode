@@ -7,13 +7,11 @@ public:
             digits[pos] = 0;
             pos--;
         }
-        
         if(pos < 0){
             digits.insert(digits.begin(), 1);
         }else{
             digits[pos]++;
         }
-        
         return digits;
     }
 };
