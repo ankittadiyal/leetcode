@@ -4,7 +4,6 @@ public:
         int N = digits.size();
         int pos = N -1;
         while(pos >= 0 && digits[pos] == 9){
-            //carry
             digits[pos] = 0;
             pos--;
         }
