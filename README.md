@@ -45,6 +45,7 @@ leetcode solutions auto commited...
 | [0014-longest-common-prefix](https://github.com/ankittadiyal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankittadiyal/leetcode/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankittadiyal/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
 ## Trie
@@ -68,5 +69,10 @@ leetcode solutions auto commited...
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
