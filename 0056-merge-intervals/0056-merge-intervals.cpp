@@ -3,7 +3,6 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         if (intervals.empty()) return {};
 
-        // No need for std:: here anymore
         sort(intervals.begin(), intervals.end());
 
         vector<vector<int>> merged;
