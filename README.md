@@ -27,6 +27,7 @@ leetcode solutions auto commited...
 | [0058-length-of-last-word](https://github.com/ankittadiyal/leetcode/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
+| [1768-merge-strings-alternately](https://github.com/ankittadiyal/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ leetcode solutions auto commited...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankittadiyal/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/ankittadiyal/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
