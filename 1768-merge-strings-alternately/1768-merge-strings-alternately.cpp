@@ -7,6 +7,7 @@ public:
             if (i < m) ans += word1[i];
             if (i < n) ans += word2[i];
         }
+        
         return ans;
     }
 };
