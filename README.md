@@ -77,4 +77,12 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankittadiyal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankittadiyal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
