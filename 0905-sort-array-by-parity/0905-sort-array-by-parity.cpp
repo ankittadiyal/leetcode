@@ -8,7 +8,6 @@ public:
             if (nums[left] % 2 > nums[right] % 2) {
                 swap(nums[left], nums[right]);
             }
-
             if (nums[left] % 2 == 0) {
                 left++;
             }
