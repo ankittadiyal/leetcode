@@ -49,6 +49,7 @@ leetcode solutions auto commited...
 | [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ankittadiyal/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankittadiyal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Trie
 |  |
@@ -88,4 +89,8 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankittadiyal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankittadiyal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
