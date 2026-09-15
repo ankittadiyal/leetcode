@@ -8,6 +8,7 @@ leetcode solutions auto commited...
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankittadiyal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ankittadiyal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankittadiyal/leetcode/tree/master/0013-roman-to-integer) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ leetcode solutions auto commited...
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankittadiyal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankittadiyal/leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Trie
 |  |
