@@ -60,6 +60,7 @@ leetcode solutions auto commited...
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -79,6 +80,7 @@ leetcode solutions auto commited...
 | [0027-remove-element](https://github.com/ankittadiyal/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ankittadiyal/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ leetcode solutions auto commited...
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
