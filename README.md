@@ -9,6 +9,7 @@ leetcode solutions auto commited...
 | [0012-integer-to-roman](https://github.com/ankittadiyal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankittadiyal/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
@@ -19,6 +20,7 @@ leetcode solutions auto commited...
 | [0013-roman-to-integer](https://github.com/ankittadiyal/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ankittadiyal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -58,6 +60,7 @@ leetcode solutions auto commited...
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankittadiyal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankittadiyal/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -91,6 +94,7 @@ leetcode solutions auto commited...
 | [0056-merge-intervals](https://github.com/ankittadiyal/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -116,8 +120,10 @@ leetcode solutions auto commited...
 | ------- |
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankittadiyal/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
