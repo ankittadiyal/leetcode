@@ -8,6 +8,7 @@ leetcode solutions auto commited...
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankittadiyal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ankittadiyal/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ankittadiyal/leetcode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ leetcode solutions auto commited...
 | [0058-length-of-last-word](https://github.com/ankittadiyal/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ankittadiyal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
