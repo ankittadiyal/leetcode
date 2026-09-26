@@ -36,6 +36,7 @@ leetcode solutions auto commited...
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankittadiyal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ankittadiyal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
@@ -89,6 +90,7 @@ leetcode solutions auto commited...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankittadiyal/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankittadiyal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/ankittadiyal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
