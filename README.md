@@ -23,6 +23,7 @@ leetcode solutions auto commited...
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -37,6 +38,7 @@ leetcode solutions auto commited...
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankittadiyal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ankittadiyal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
@@ -129,6 +131,7 @@ leetcode solutions auto commited...
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankittadiyal/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
