@@ -11,6 +11,7 @@ leetcode solutions auto commited...
 | [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ankittadiyal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ankittadiyal/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
@@ -37,6 +38,7 @@ leetcode solutions auto commited...
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ankittadiyal/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankittadiyal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
