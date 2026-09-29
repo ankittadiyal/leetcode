@@ -44,6 +44,7 @@ leetcode solutions auto commited...
 | [0415-add-strings](https://github.com/ankittadiyal/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ankittadiyal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/ankittadiyal/leetcode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/ankittadiyal/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -58,6 +59,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ankittadiyal/leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/ankittadiyal/leetcode/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
