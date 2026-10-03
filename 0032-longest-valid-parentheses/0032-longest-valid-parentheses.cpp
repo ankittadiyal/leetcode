@@ -8,7 +8,8 @@ public:
             if (s[i - 1] == ')') {
                 if (s[i - 2] == '(') {
                     f[i] = f[i - 2] + 2;
-                } else {
+                }
+                else{
                     int j = i - f[i - 1] - 1;
                     if (j && s[j - 1] == '(') {
                         f[i] = f[i - 1] + 2 + f[j - 1];
