@@ -37,6 +37,7 @@ leetcode solutions auto commited...
 | [0014-longest-common-prefix](https://github.com/ankittadiyal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ankittadiyal/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankittadiyal/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -91,12 +92,14 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankittadiyal/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankittadiyal/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
@@ -138,6 +141,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankittadiyal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
