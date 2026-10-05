@@ -9,9 +9,8 @@ public:
                 depth++;
             } else {
                 depth--;
-                // If it forms a base '()', add its value scaled by the depth
                 if (s[i - 1] == '(') {
-                    score += 1 << depth; // Equivalent to 2^depth
+                    score += 1 << depth;
                 }
             }
         }
