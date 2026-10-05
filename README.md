@@ -171,4 +171,8 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ankittadiyal/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ankittadiyal/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
