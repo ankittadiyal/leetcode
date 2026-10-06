@@ -15,7 +15,6 @@ public:
                 }
             }
         }
-        
         return open_count + mismatch_count;
     }
 };
