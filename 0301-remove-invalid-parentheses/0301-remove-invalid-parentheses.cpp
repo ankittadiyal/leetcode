@@ -24,7 +24,7 @@ public:
                 res.push_back(cur);
                 found = true;
             }
-            if (found) continue; // If valid level found, don't generate next level
+            if (found) continue; 
 
             for (int i = 0; i < cur.length(); i++) {
                 if (cur[i] != '(' && cur[i] != ')') continue;
