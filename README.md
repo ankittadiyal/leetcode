@@ -43,6 +43,7 @@ leetcode solutions auto commited...
 | [0168-excel-sheet-column-title](https://github.com/ankittadiyal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ankittadiyal/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ankittadiyal/leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankittadiyal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ankittadiyal/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -170,6 +171,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +181,8 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ankittadiyal/leetcode/tree/master/0182-duplicate-emails) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
