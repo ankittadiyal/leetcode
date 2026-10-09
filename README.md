@@ -89,6 +89,7 @@ leetcode solutions auto commited...
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -140,6 +141,7 @@ leetcode solutions auto commited...
 | [0389-find-the-difference](https://github.com/ankittadiyal/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ankittadiyal/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -192,4 +194,28 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
