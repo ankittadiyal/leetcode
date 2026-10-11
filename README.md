@@ -92,6 +92,7 @@ leetcode solutions auto commited...
 | [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankittadiyal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
 | ------- |
@@ -223,4 +224,8 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankittadiyal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
