@@ -15,6 +15,7 @@ leetcode solutions auto commited...
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ankittadiyal/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ leetcode solutions auto commited...
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankittadiyal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -173,6 +175,7 @@ leetcode solutions auto commited...
 | [0268-missing-number](https://github.com/ankittadiyal/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ankittadiyal/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankittadiyal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ leetcode solutions auto commited...
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankittadiyal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankittadiyal/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Database
 |  |
 | ------- |
