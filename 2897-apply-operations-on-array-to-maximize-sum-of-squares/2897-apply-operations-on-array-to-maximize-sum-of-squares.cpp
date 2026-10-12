@@ -13,7 +13,6 @@ public:
                 }
             }
         }
-        
         long long ans = 0;
         // Greedily build the k largest possible numbers
         for (int step = 0; step < k; ++step) {
