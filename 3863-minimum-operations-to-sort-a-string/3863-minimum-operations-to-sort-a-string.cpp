@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minOperations(std::string s) {
+        
         // Case 0: Already sorted
         if (std::is_sorted(s.begin(), s.end())) {
             return 0;
