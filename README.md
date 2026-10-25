@@ -100,6 +100,7 @@ leetcode solutions auto commited...
 | [0905-sort-array-by-parity](https://github.com/ankittadiyal/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankittadiyal/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -227,6 +228,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +277,7 @@ leetcode solutions auto commited...
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -296,4 +299,12 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
