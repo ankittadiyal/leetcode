@@ -1,9 +1,6 @@
-#include <vector>
-#include <string>
-
 class Solution {
 public:
-    std::vector<std::string> createGrid(int m, int n) {
+    vector<std::string> createGrid(int m, int n) {
         // Initialize the m x n grid filled entirely with '#'
         std::vector<std::string> grid(m, std::string(n, '#'));
         
