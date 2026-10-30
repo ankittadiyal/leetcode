@@ -4,6 +4,7 @@ public:
         vector<vector<pair<int, int>>> adj(n);
         for (auto& e : edges) adj[e[0]].push_back({e[1], e[2]});
 
+        // Min-heap storing: {distance, node, consecutive_count}
         priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> pq;
         vector<vector<int>> dist(n, vector<int>(k + 1, 1e9));
 
