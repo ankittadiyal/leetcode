@@ -8,6 +8,7 @@ public:
             mx = max(mx, x);
             s += x;
         }
+        
         return mx * n - s;
     }
 };
