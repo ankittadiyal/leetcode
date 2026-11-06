@@ -15,6 +15,7 @@ leetcode solutions auto commited...
 | [0349-intersection-of-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ankittadiyal/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/ankittadiyal/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankittadiyal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankittadiyal/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -83,6 +84,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankittadiyal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/ankittadiyal/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankittadiyal/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
 |  |
@@ -115,6 +117,7 @@ leetcode solutions auto commited...
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankittadiyal/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/ankittadiyal/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankittadiyal/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankittadiyal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -185,6 +188,7 @@ leetcode solutions auto commited...
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankittadiyal/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankittadiyal/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/ankittadiyal/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankittadiyal/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ankittadiyal/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
