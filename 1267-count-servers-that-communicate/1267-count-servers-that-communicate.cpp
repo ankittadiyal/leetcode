@@ -7,7 +7,6 @@ public:
         std::vector<int> row_count(m, 0);
         std::vector<int> col_count(n, 0);
         
-        // First pass: count servers in each row and column
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (grid[i][j] == 1) {
@@ -17,7 +16,6 @@ public:
             }
         }
         
-        // Second pass: count communicating servers
         int communicating_servers = 0;
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
