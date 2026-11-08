@@ -113,6 +113,7 @@ leetcode solutions auto commited...
 | [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankittadiyal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankittadiyal/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/ankittadiyal/leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -259,6 +260,7 @@ leetcode solutions auto commited...
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ankittadiyal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -289,6 +291,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ankittadiyal/leetcode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -315,6 +318,7 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankittadiyal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -340,11 +344,13 @@ leetcode solutions auto commited...
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankittadiyal/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankittadiyal/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ankittadiyal/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/ankittadiyal/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankittadiyal/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
