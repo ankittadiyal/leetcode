@@ -12,18 +12,20 @@ public:
         for (int i = 0; i < arrival.size(); ++i) {
             long long currTime = arrival[i];
             
+            // Free up servers that have completed their requests
             while (!busy.empty() && busy.top().first <= currTime) {
                 idle.insert(busy.top().second);
                 busy.pop();
             }
             
             if (idle.empty()) {
-                continue; 
+                continue; // All servers are busy, drop request
             }
             
+            // Find the first available server >= (i % k)
             auto it = idle.lower_bound(i % k);
             if (it == idle.end()) {
-                it = idle.begin(); 
+                it = idle.begin(); // Wrap around to index 0
             }
             
             int server = *it;
