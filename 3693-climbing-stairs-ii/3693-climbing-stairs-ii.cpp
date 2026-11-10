@@ -9,6 +9,7 @@ public:
                 f[i] = min(f[i], f[j] + x + (i - j) * (i - j));
             }
         }
+        
         return f[n];
     }
 };
