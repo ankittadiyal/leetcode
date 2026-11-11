@@ -7,6 +7,7 @@ public:
         long long c = 1LL * costBoth * mn
             + 1LL * (need1 - mn) * cost1
             + 1LL * (need2 - mn) * cost2;
+            
         return min({a, b, c});
     }
 };
