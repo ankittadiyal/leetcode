@@ -9,6 +9,7 @@ public:
             ans = (ans + cnt[s ^ 1]) % mod;
             ++cnt[s];
         }
+        
         return ans;
     }
 };
